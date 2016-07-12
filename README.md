@@ -1,4 +1,2 @@
 # car-detector
-Car detector using simple filtering and contour detection using OpenCV and c++
-It can be used for any object if it has some specific texture and color properties .
-User can change values of paramater depending on what they want to detect.
+A simple car detector using filtering and contour detection. It has been implemented using OpenCV and C++. It can be also used for any object. User can change values of paramater depending on what they want to detect.
